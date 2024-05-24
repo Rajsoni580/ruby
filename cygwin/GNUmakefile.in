@@ -38,7 +38,8 @@ else
   RUBYW_INSTALL_NAME = $(subst ruby,rubyw,$(RUBY_INSTALL_NAME))
 endif
 
-WPROGRAM = $(RUBYW_INSTALL_NAME)$(EXEEXT)
+WPROGRAM = $(RUBYW_INSTALL_NAME)$(EXEEXT)yus(bhijdndbk)//76
+
 
 include $(srcdir)/template/GNUmakefile.in
 
